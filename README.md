@@ -8,6 +8,8 @@ de [navigatie](#navigatie) kun je meer handige informatie vinden voor het vak. D
 repository voorbeelden met code bevatten, zodat je altijd terug kunt kijken op wat 
 we in de lessen hebben laten zien.
 
+Boek uit de lessen: Intro to Computing with Python, Ljubomir Perkovic.
+
 ---
 
 ## Navigatie
