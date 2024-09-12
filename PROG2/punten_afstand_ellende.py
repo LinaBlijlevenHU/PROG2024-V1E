@@ -1,5 +1,8 @@
 """
-Uitwerking van een oefening (d) uit de slides: het berekenen of gegeven coördinaten binnen een cirkel liggen.
+punten_afstand_ellende.py
+
+Uitwerking van een oefening (d) uit de slides: het berekenen of gegeven coördinaten binnen een cirkel liggen,
+met behulp van de stelling van Pythagoras.
 """
 import math
 
