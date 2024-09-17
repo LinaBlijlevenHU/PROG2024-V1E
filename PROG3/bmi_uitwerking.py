@@ -1,4 +1,6 @@
 """
+bmi_uitwerking.py
+
 Write a program that:
 • takes as input a person’s height (in meters) and weight (in kilograms)
 • computes the person’s BMI and prints ‘underweight’, ‘normal’ or ‘overweight’
