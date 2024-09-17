@@ -1,3 +1,8 @@
+"""
+if_exercise.py
+
+Oefenen met conditionele (if) statements
+"""
 #a) If age is greater than 62 then print 'You can get Social Security benefits’
 age = 64
 
