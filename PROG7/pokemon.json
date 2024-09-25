@@ -1,0 +1,263 @@
+{
+  "pokemon": [
+    {
+      "name": "Pikachu",
+      "type": ["Electric"],
+      "level": 25,
+      "stats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "speed": 90
+      },
+      "abilities": [
+        {
+          "name": "Static",
+          "effect": "May cause paralysis on contact."
+        },
+        {
+          "name": "Lightning Rod",
+          "effect": "Draws in all Electric-type moves to up its Sp. Atk."
+        }
+      ],
+      "evolution": "Raichu",
+      "evolves_at": 30,
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "power": 90
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "type": ["Fire"],
+      "level": 15,
+      "stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "speed": 65
+      },
+      "abilities": [
+        {
+          "name": "Blaze",
+          "effect": "Powers up Fire-type moves when the Pokémon is in trouble."
+        }
+      ],
+      "evolution": "Charmeleon",
+      "evolves_at": 16,
+      "moves": [
+        {
+          "name": "Ember",
+          "type": "Fire",
+          "power": 40
+        },
+        {
+          "name": "Scratch",
+          "type": "Normal",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "name": "Bulbasaur",
+      "type": ["Grass", "Poison"],
+      "level": 10,
+      "stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "speed": 45
+      },
+      "abilities": [
+        {
+          "name": "Overgrow",
+          "effect": "Powers up Grass-type moves when in trouble."
+        }
+      ],
+      "evolution": "Ivysaur",
+      "evolves_at": 16,
+      "moves": [
+        {
+          "name": "Vine Whip",
+          "type": "Grass",
+          "power": 45
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "type": ["Water"],
+      "level": 12,
+      "stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "speed": 43
+      },
+      "abilities": [
+        {
+          "name": "Torrent",
+          "effect": "Powers up Water-type moves when the Pokémon is in trouble."
+        }
+      ],
+      "evolution": "Wartortle",
+      "evolves_at": 16,
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water",
+          "power": 40
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "name": "Eevee",
+      "type": ["Normal"],
+      "level": 20,
+      "stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 50,
+        "speed": 55
+      },
+      "abilities": [
+        {
+          "name": "Run Away",
+          "effect": "Enables a sure getaway from wild Pokémon."
+        },
+        {
+          "name": "Adaptability",
+          "effect": "Boosts the power of the Pokémon's same-type moves."
+        }
+      ],
+      "evolutions": ["Vaporeon", "Jolteon", "Flareon"],
+      "evolves_at": 25,
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "power": 40
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "power": 60
+        }
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "type": ["Normal", "Fairy"],
+      "level": 18,
+      "stats": {
+        "hp": 115,
+        "attack": 45,
+        "defense": 20,
+        "speed": 20
+      },
+      "abilities": [
+        {
+          "name": "Cute Charm",
+          "effect": "May cause infatuation on contact."
+        },
+        {
+          "name": "Competitive",
+          "effect": "Boosts Special Attack when a stat is lowered."
+        }
+      ],
+      "evolution": "Wigglytuff",
+      "evolves_at": 30,
+      "moves": [
+        {
+          "name": "Pound",
+          "type": "Normal",
+          "power": 40
+        },
+        {
+          "name": "Sing",
+          "type": "Normal",
+          "effect": "Puts the target to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "type": ["Ghost", "Poison"],
+      "level": 35,
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "Cursed Body",
+          "effect": "May disable a move used on the Pokémon."
+        }
+      ],
+      "evolution": "Mega Gengar",
+      "evolves_at": "Mega Stone",
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "power": 80
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "power": 90
+        }
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "type": ["Dragon", "Flying"],
+      "level": 55,
+      "stats": {
+        "hp": 91,
+        "attack": 134,
+        "defense": 95,
+        "speed": 80
+      },
+      "abilities": [
+        {
+          "name": "Inner Focus",
+          "effect": "The Pokémon is protected from flinching."
+        }
+      ],
+      "evolution": null,
+      "moves": [
+        {
+          "name": "Dragon Claw",
+          "type": "Dragon",
+          "power": 80
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "power": 110
+        }
+      ]
+    }
+  ]
+}
