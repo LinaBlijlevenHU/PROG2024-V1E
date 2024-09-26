@@ -1,3 +1,9 @@
+"""
+maanden_dictionary.py
+
+Voorbeeld V1H
+"""
+
 number_naar_maand = {
     1: "January",
     2: "February",

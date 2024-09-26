@@ -1,3 +1,12 @@
+"""
+dict_voorbeeld_count.py
+
+Voorbeeld V1H
+
+1. Telt alle cijfers die een student heeft gehaald
+2. Telt hoe vaak elk woord voorkomt in het Bee Movie script.
+"""
+
 import json
 import re
 
