@@ -1,5 +1,7 @@
 # README.md
 
+> Welkom in de repository van V1E!
+
 Welkom in de README.md! De meeste repositories (hierin bewaren we code), 
 bevatten zo'n README, zodat we snel aan de slag kunnen met het programma.
 
