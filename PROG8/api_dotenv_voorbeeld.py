@@ -1,6 +1,4 @@
 # Requests voor het versturen van HTTP verzoeken
-from textwrap import indent
-
 import requests
 
 # Hulp library voor JSON
@@ -34,6 +32,8 @@ r = requests.get(url)
 
 if r.status_code == 200:
     print("Verzoek gelukt!")
+    # Print (op een regel)
+    #print(r.json())
     # Formatteer de output en laat zien
     print(json.dumps(r.json(), indent=3))
 else:
